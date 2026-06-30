@@ -11,7 +11,7 @@
 
   <script>
     // COLA TUA URL E KEY DO SUPABASE AQUI
-    const SUPABASE_URL = 'https://xxxx.supabase.co'
+    const SUPABASE_URL = 'https://https://nrchvbixnjtskiaupjvx.supabase.co"
     const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5yY2h2Yml4bmp0c2tpYXVwanZ4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI0OTI3NTYsImV4cCI6MjA5ODA2ODc1Nn0.T75rKSpVsNAsQxwSn5TsoZbgV8VbRqp-PM0zP9XaqMs"
     const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY)
 
